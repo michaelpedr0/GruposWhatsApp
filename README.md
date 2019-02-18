@@ -2,6 +2,7 @@
 
 public partial class GruposWhatsApp 
 {
+
 	string title = "Repositório contendo links de grupos do WhatsApp voltados a tecnologia e programação.";
 
 	string regras = "Fornecer links de grupos válidos.\n" +
