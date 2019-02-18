@@ -1,7 +1,6 @@
 # GruposWhatsApp
 
-public partial class GruposWhatsApp
-{
+public partial class GruposWhatsApp {
 
 	string title = "Repositório contendo links de grupos do WhatsApp voltados a tecnologia e programação.";
 
